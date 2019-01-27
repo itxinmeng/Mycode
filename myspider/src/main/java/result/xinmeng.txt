@@ -1,0 +1,120 @@
+链接: https://www.zhipin.com/job_detail/d98122e8269e42501nx-3N-1Flc~.html
+薪资/职位: 18K-35KJava	地点/年限/学历: 北京3-5年本科	公司: 阅文集团
+职位要求: 【社招】【阅文集团（腾讯文学盛大文学合并）-北京/上海】服务端中/高级JAVA开发岗位职责：1、主要负责阅文集团（QQ阅读、起点、各分子公司）计费系统设计与研发2、负责集团营销系统设计与研发3、负责研发、维护计费相关核心服务。岗位要求1. 3年以上工作经验，JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解； 2. 熟悉常见设计模式，熟练掌握 Spring、MyBatis 等框架； 3. 能对分布式常用技术进行合理应用，解决问题；RPC开发框架，Kafka、Redis、Zookeeper等有使用及研究经验者优先 4. 掌握多线程及高性能的设计与编码及性能调优；有高并发应用开发经验； 5. 熟悉MySQL及主流Key-Value存储系统，能够进行系统性能调优； 6. 学习能力强，适应能力好；具备耐心/细心的品质； 7. 喜欢去看及尝试最新的技术，追求编写优雅的代码，从技术趋势和思路上能影响技术团队年薪满足行业标准根据能力可谈 简历发送邮箱：*****企业介绍： #阅文集团成立于2015年3月，由腾讯文学与原盛大文学整合而成，是引领行业的正版数字阅读平台和文学IP培育平台，阅文集团旗下拥有中文数字阅读强大的内容品牌矩阵。# 2017年11月8日，阅文集团在港交所挂牌上市，开盘上涨约63%，每股报于90港元，市值达到816亿港元。# 包括创世中文网、起点中文网、 起点国际、云起书院、起点女生网、红袖添香、潇湘书院、小说阅读网、言情小说吧等网络原创与阅读品牌；中智博文、华文天下、聚石文华、榕树下等图书出版及数字发行品牌；天方听书网、懒人听书等音频听书品牌。# 移动阅读APP：起点读书APP，QQ阅读APP。其中，作为全方位渗透广大阅读爱好者生活场景的阅读品牌&mdash;&mdash;QQ阅读承载阅文集团旗下全部内容和服务，QQ阅读市场占有率第一，超1/3，年轻人（19-25岁）使用率第一。移动创作APP：作家助手。全球译者平台：# 目前集团拥有的作品总数近1000万部，作者队伍约400万人，其中包括原创文学界绝大多数知名作者。在IP的衍生开发上，网络文学超人气改编作品90%以上来自阅文集团旗下，其中包括《步步惊心》《致青春》《盗墓笔记》《鬼吹灯》《裸婚时代》《凡人修仙传》等数十部经典IP。 以&ldquo;全民阅读&rdquo;为核心战略，阅文集团正全力建设一个集全内容储备、全设备平台、全娱乐版权运作于一体的中文数字阅读超大平台，打造&ldquo;全民阅读旗舰品牌&rdquo; 想拥有多元化的职业发展平台吗？ 想获得尊重个性、轻松自在的工作环境、有趣的互联网工作吗？ 想了解网络原创文学行业前瞻动态、引领泛IP时代潮流吗？ 想与《步步惊心》《致青春》《盗墓笔记》《鬼吹灯》《花千骨》《琅琊榜》这些作品的作者近距离接触，了解创作背后的花絮吗？ 这都不是梦想！ 阅文集团给你想要的一切！
+
+链接: https://www.zhipin.com/job_detail/69a972ac125c054b1nJ53NW8EFs~.html
+薪资/职位: 40K-80KJava	地点/年限/学历: 北京5-10年本科	公司: 去哪儿
+职位要求: java高级开发工程师职位描述负责机票数据开发和分析相关平台的研发、优化等工作职位要求本科及以上学历，计算机相关专业精通java及web开发技术，有良好的程序设计和架构能力熟练运用并发编程模型，熟悉网络编程和IO模型优秀的数据库设计和优化能力，熟悉MySQL，至少熟悉一种常用的nosql系统有较强的产品理解，能从技术角度推动产品优化。有机票产品相关经验优先学习能力强，有很强的工作责任心和良好的沟通协调能力，能在压力下独立的解决问题了解一定的web前端技术有大数据处理、海量数据存储经验者优先。了解hadoop，hive
+
+链接: https://www.zhipin.com/job_detail/92a69c53caae28901Xx83tW_GFM~.html
+薪资/职位: 9K-14KJava	地点/年限/学历: 北京1-3年本科	公司: 宇信科技
+职位要求: 计算机相关专业以上，2年以上java的开发经验，熟悉软件项目开发过程，较强的系统设计能力，精通JavaBean,Servlet,JSP,JDBC等J2EE技术，精通Html,XML,javascript,AJAX,精通Spring Boot,Spring,Hibernate框架，熟悉J2EE,JSF框架，精通Oracle,Mysql,SQL,Server等数据库，熟悉掌握商业中间件Weblogic,Websphere,Tomcat或Jboss的应用，具有DB2，Oracle,SQLServer或MySQL数据库应用开发经验，熟悉掌握EJB,JMS等项目开发的经验者优先，较好的沟通表达能力，较强的团队协作意识，有上进心和工作责任感，有电商经验者优先。
+
+链接: https://www.zhipin.com/job_detail/77d421c1aa1376031XB93NW5FFM~.html
+薪资/职位: 20K-35KJava	地点/年限/学历: 北京3-5年本科	公司: 京东集团
+职位要求: 职责描述：1.负责系统架构设计；2.开发规范制定；3.代码质量把控；4.技术分享等工作；任职要求：1. JAVA基础扎实，精通io、多线程、集合等基础框架；2. 精通分布式、缓存、消息、搜索等机制；3. 精通后端开发的相关技术，5年及以上使用JAVA进行后端开发的经验，2年及以上大型互联网项目架构设计经验；4. 精通数据库技术(MySQL/Oracle)，数据库优化及SQL优化；5. 精通Linux平台下常用命令操作、环境部署；6. 精通JAVA EE规范，熟练掌握常用的设计模式，熟悉struts、ibatis、spring，springMVC等常用框架及原理；7.擅长系统分析与设计、代码重构，有大型项目基础及应用架构设计经验；8. 良好的沟通技能，团队合作能力，勤奋好学，热爱技术；9. 细致认真，善于沟通，能够承担较大压力；10. 熟悉大流量、高并发、高性能的分布式系统的设计及应用，擅长性能调优者优先。11.有二线及以上互联网公司经验者优先
+
+链接: https://www.zhipin.com/job_detail/2945c7df384f34a31nN83ty0GVE~.html
+薪资/职位: 20K-40KJava	地点/年限/学历: 北京3-5年本科	公司: 瓜子二手车直卖网
+职位要求: 工作职责：1)负责瓜子金融的信审系统/资金系统/账务系统/贷后系统等系统的开发和维护；2)负责模块或者子系统的功能的设计与代码编写 岗位要求: 1)具有1年以上PHP/Go/java语言下一种或以上服务端开发经验，以及熟悉相关语言下的常用技术框架2)熟悉分布式,缓存,消息队列等机制；3)精通关系型数据库设计及SQL,精通unix/linux操作系统； 4)具备良好的识别业务关键需求和设计领域模型的能力； 5)热爱技术，工作认真、严谨，对系统质量有近乎苛刻的要求意识；6)良好的沟通能力、学习能力、团队协作能力；有意向请联系：微信：*****邮箱：*****
+
+链接: https://www.zhipin.com/job_detail/13def70475d393501XF92Nq1GVY~.html
+薪资/职位: 30K-45KJava	地点/年限/学历: 北京3-5年硕士	公司: 阿里巴巴集团
+职位要求: 1、参与信息系统的需求调研和需求分析，撰写相关技术文档；2、搭建系统开发环境，完成系统框架和核心代码的实现；3、制定项目概要设计、详细设计、开发计划并实施；4、系统开发测试、部署和集成；5、负责解决开发过程中遇到的复杂技术问题；6、负责相关方向核心成果的专利化，及顶级会议论文的发表，塑造阿里在人机结合/内容信息智能运营的国内外影响力。职位要求1、211计算机数学等专业优秀本科以上学历，具有扎实的Java编程基础，精通Java EE、SOA和OSGI等相关技术；对各种开源框架如Spring、Mybatis等有深入的了解，对框架本身有过开发或者重构者优先；2、具备Mysql或Oracle数据库使用经验，以及分布式web系统应用设计和开发经验；3、熟练掌握Linux/Unix操作系统，对常用命令运用娴熟，能根据实际需要快速编写Shell脚本；4、具备良好的识别和设计通用框架及模块的能力；5、较强的表达沟通能力，工作认真严谨，对系统质量有近乎苛刻的要求意识，富有团队合作和挑战进取精神；6、具备大型电商网站、大型信息系统、云计算、大数据平台建设经验者优先考虑。
+
+链接: https://www.zhipin.com/job_detail/536b4a19111b47e31nZy29S4GVs~.html
+薪资/职位: 18K-25KJava	地点/年限/学历: 北京5-10年大专	公司: 北京智扬
+职位要求: java开发人员需求1.   5年以上java开发经验，了解spring，springmvc，mybatis开源框架2.熟练使用oracle数据库，编写oracle存储过程，具备数据库调优经验3.熟练掌握EasyUI，jquery等js框架4.熟悉linux，maven，git开发部署5.熟练掌握SOA开发架构设计，熟悉常用消息队列服务6.熟悉使用各种缓存，理解缓存的设计原理7.熟练使用各种调试工具，能独立分析、解决和归纳问题8.熟悉EBS开发优先考虑
+
+链接: https://www.zhipin.com/job_detail/40d8c83b94d17f3b1XZ-3dS9GVE~.html
+薪资/职位: 12K-18KJava	地点/年限/学历: 北京3-5年大专	公司: 博彦科技
+职位要求: 1、 精通基于Java的服务端研发2、 Java基础扎实，3年以上Java开发经验，理解IO、多线程、集合等基础框架，对JVM有一定了解3、 熟练使用常用开发框架，如spring、ibatis等4、 熟练使用分布式技术，如分布式缓存、分布式消息等5、 熟练使用常用数据库技术，如mysql,可以编写复杂sql6、 熟练使用linux操作系统，掌握linux常用命令，以及shell等脚本语言，可以做一些常见的linux运维工作7、 对http、tcp协议有比较深入的了解8、 对云计算业务有了解者优先阿里集团的外包岗位~
+
+链接: https://www.zhipin.com/job_detail/0f47a93bd15350a31nJz29y-E1E~.html
+薪资/职位: 20K-40KJava	地点/年限/学历: 北京3-5年本科	公司: 华为技术有限公司
+职位要求: 1、3年以上的Java开发经验，熟练使用java相关技术和框架（包括Java语言基础/多线程 /Spring/Spring mvc/myBatis等），具备数据库应用系统规划及设计能力； 2、熟悉数据库mysql、mongodb以及常用SQL语言； 3、熟悉工具tomcat、Git、Maven； 4、具有较强的学习、分析问题解决问题的能力，具有良好的团队合作精神和与人沟通的能力，能够承担较大的工作压力； 5、有账务核算系统开发、第三方支付平台、大数据开发经验者优先。6、统招本科毕业，通过英语四级考试。7、有复杂web系统设计能力，有系统调优经验。
+
+链接: https://www.zhipin.com/job_detail/8798a7d64fad19fd1XF42Ny-EVU~.html
+薪资/职位: 12K-14KJava	地点/年限/学历: 北京3-5年本科	公司: 贵迪
+职位要求: 开发项目经验丰富，涉及知识面比较广泛。能够不仅限于一种语言解决问题。了解vue。开发springcloud微服务框架。主要负责分布式后台开发。具备解决技术难点能力。
+
+链接: https://www.zhipin.com/job_detail/d7d1b6e5bffd6dc61XR63dy8ElE~.html
+薪资/职位: 20K-40KJava	地点/年限/学历: 北京3-5年本科	公司: 支付宝
+职位要求: 坐标：杭州+北京1. 负责业务项目的开发和维护，进行软件设计和编码实现，确保安全、质量和性能；2. 维护和升级现有软件产品，快速定位并修复现有软件缺陷；3. 根据开发规范编写各种开发文档及项目文档。
+
+链接: https://www.zhipin.com/job_detail/8edd29d989f554351nx52N2-Elc~.html
+薪资/职位: 20K-40KJava	地点/年限/学历: 北京3-5年本科	公司: 阿里健康
+职位要求: 阿里健康-java 高级开发专家职位描述：1、健康平台相关基础应用服务建设的开发及技术研究；2、熟悉业务，分析和发现系统的优化点，负责推动产品性能和架构优化，不断创新；3、重点项目的设计方案评审与技术支持，平日技术难点攻关；4、进行研发氛围建设，提升团队整体技术水平；5、主导团队开发人员code review工作，并能提供性能优化、安全性建议。职位要求：1、本科以上，从事java开发5年以上；2、对Java面向对象软件结构有深入理解以及很强的应用能力，精通OO，AOP，设计模式，熟悉多线程并发，网络编程技术。熟练掌握Spring等主流的开发框架；3、熟悉java web开发，熟悉HTML和JSP，对CSS、JavaScript有一定了解；4、熟练使用MySQL；5、有分布式开发经验、熟练使用分布式服务框架，消息中间件和分布式存储系统等；6、对技术有强烈的兴趣，喜欢钻研，具有良好的学习能力，沟通技能，团队合作能力。
+
+链接: https://www.zhipin.com/job_detail/608b30cc133424f11n143tu0EFc~.html
+薪资/职位: 15K-20KJava	地点/年限/学历: 北京3-5年本科	公司: 用友网络
+职位要求: 1 统招全日制本科及以上学历， 3年以上年 Java 开发经验 2 ．精通 Java 及面向对象设计开发．熟练应用Java 设计3 、负责关键技术问题的攻关和系统优化，协助解决开发过程中的技术难题 4 、制定开发计划，协调推进相关模块开发工作 5.有前端开发经验或微服务开发经验更佳
+
+链接: https://www.zhipin.com/job_detail/7d523ecd36826aad1HR43tm0EVs~.html
+薪资/职位: 25K-50KJava	地点/年限/学历: 北京1-3年本科	公司: 水滴互助
+职位要求: 岗位要求：&nbsp;&nbsp;1.扎实的编程基础，必须掌握python或java，一些基本的后端技术2.良好的数学和算法基础优先，机器学习，自然语言处理算法；3. 聪明好学，积极主动，立志于从事算法和数据挖掘行业相关工作&nbsp;&nbsp;&nbsp;待遇：20--60K*15  + 期权，上不封顶
+
+链接: https://www.zhipin.com/job_detail/142c9a385dc60f441HZ93Ny_F1E~.html
+薪资/职位: 15K-25KJava	地点/年限/学历: 北京5-10年不限	公司: 北明软件
+职位要求: 具备大学本科（含）及以上学历，计算机或相关专业，5年以上相关工作经验；熟悉Java开发的相关技术，了解其实现机制。包括：多线程、设计模式、常见数据结构及算法等；熟练使用Web框架和持久化技术，如：SpringMVC、SpringBoot、SpringCloud、Spring Data、Mybatis等；能够快速部署Web应用，有较强的bug排查能力、问题分析解决能力；熟悉MySQL/Oracle至少一种数据库，会对SQL语句进行调优，熟悉分库分表、读写分离的概念；熟悉并使用RabbitMQ、Redis/Kafka等；会使用脚本语言shell；具备较强的逻辑思维能力、动手能力、探索能力、沟通能力，以及良好的团队合作精神，能够带领团队进行技术攻关。
+
+链接: https://www.zhipin.com/job_detail/2d55ee19007081851Xx52tS7FFE~.html
+薪资/职位: 30K-50KJava	地点/年限/学历: 北京3-5年本科	公司: 百度金融
+职位要求: 工作职责:-负责百度互联网金融支付核心系统技术架构设计与实现，尤其关注金融支付核心业务系统建设、基础服务系统建设、核心系统高可用能力建设-深刻理解现有业务和系统，能够进行金融行业技术、业务难题攻关-对前沿金融业务系统、前沿技术敏感并兴趣浓厚，并能够实践应用到实际系统，包括不限于金融消息系统、分布式系统、异地多活、区块链技术等等职责要求:-本科及以上学历，2年以上银行或互联网金融核心及相关系统的设计与开发经验，能够独立完成互联网支付金融核心系统及周边外围系统的整体技术架构设计与实现-对Java面向对象软件架构有深入理解以及很强的动手能力。熟练应用J2EE等WEB开发技术，熟练掌握Spring等主流的开发框架-理解IO、多线程等基础框架，对JVM的原理有一定的了解-熟练使用MySQL等主流数据库。熟练使用linux, 熟悉shell脚本编程-熟悉高性能高稳定易扩展的复杂互联网核心系统架构-具备优秀的逻辑思维能力，善于解决问题和分析问题，有强烈的上进心和求知欲，较强的沟通能力和学习能力-加分项：熟悉互联网金融系统，支付系统及其工作原理、系统架构的优先考虑，有高并发高可靠、复杂电子商务、交易系统和银行金融核心系统研发经验的优先考虑
+
+链接: https://www.zhipin.com/job_detail/ca076fe766abfda01Xd-39i5GFc~.html
+薪资/职位: 10K-20KJava	地点/年限/学历: 北京3-5年本科	公司: 文思海辉
+职位要求: 1、 本科以上学历 ，2年以上软件开发经验；2、 精通JAVA语言； 3、 熟悉SpringMVC，Springcloud 等开发框架；4、 至少熟悉一种主流数据库，如Oracle，MySql, SQLServer,DB2等，能熟练书写较健壮的SQL语句； 5、 熟练使用MyEclipse等开发工具，熟练使用Tomcat等常见服务软件；
+
+链接: https://www.zhipin.com/job_detail/95a1c21772018a7a1HR83d20EVQ~.html
+薪资/职位: 30K-60KJava	地点/年限/学历: 北京5-10年本科	公司: 支付宝
+职位要求: 在这里你会体会到金融和互联网的融合，监管与创新的碰撞，风险和体验的平衡。在这里你会参与到移动互联网时代认证方式的变革，指纹、人脸、笔迹&hellip;。在这里你会参与到基于海量数据，监控亿万级别交易的风控平台的建设，规则、模型、数据、稳定性、RT、大促、是你每天耳濡目染的关键词。我们希望你 有基于SOA的高并发系统设计实现经验，熟悉MYSQL、NOSQL相关数据库。对架构、代码有一定追求。我们希望你 有产品化的思维，能够从技术角度提供产品级别的解决方案，对待问题需求有独立清晰的系统思维，不盲从、不将就。1）本科或以上学历，计算机软件或相关专业。 2）三年以上J2EE项目实际开发经验；熟悉J2EE设计模式，精通Java及Web应用的开发。 3）深入了解spring，ibatis，cache，mq，rpc，jvm等领域的框架或产品的机制与代码。 4）熟悉HBase、MySQL数据库应用，熟悉数据数据层高可用、性能优化。 5）有很强的分析问题和解决问题的能力，有强烈的责任心。 6）有团队精神，良好的抗压能力，心态积极，能主动融入团队； 7）密切关注业界最新技术的发展动态，有效把握技术发展方向； 8）熟悉SOA，有平台化实施经验者，有大数据量、高并发系统和大型网站构建经验者优先。
+
+链接: https://www.zhipin.com/job_detail/0de4d2aa09d3dc191HVy39i4FlU~.html
+薪资/职位: 9K-12KJava	地点/年限/学历: 北京经验不限本科	公司: 中国软件
+职位要求: 岗位职责：1、遵循开发规范，根据开发进度和任务分配，完成相应模块的开发任务；2、进行程序单元测试，查出功能存在的缺陷并保证其质量；3、软件研发过程文档的记录和编制工作；4、软件产品或系统可用性和稳定性的维护工作。任职资格：1、精通J2EE相关技术，熟悉SSH开源框架；2、熟悉MySQL等数据库，熟练运用SQL；3、熟悉HTML、CSS、JS等页面语言；4、具备良好的表达和沟通能力；思路清晰，善于思考；5、统招本科及以上学历，计算机及相关专业。
+
+链接: https://www.zhipin.com/job_detail/cf2028d81d4591601HZ63N69GVQ~.html
+薪资/职位: 10K-15KJava	地点/年限/学历: 北京1年以内大专	公司: 华生医叮
+职位要求: java开发工程师：岗位职责：1.参与本部门总线系统的技术研究；2.参与项目分工和周期评估，重点技术问题攻关，核心代码构建；3.负责公司现有项目的维护和迭代，负责新产品的研发和新技术预研；4.负责协调项目开发和实施的各个环节，把握项目的整体进度。任职要求：1. 计算机或相关专业毕业，大学本科及以上学历2. 3年以上服务器端软件(Java)开发经验，1年以上软件架构经验，同时具有.NET 研发经验更佳3. 精通Jsp、Java、Servlet等语言及SpringMVC、Spring、Hibernate、Mbatis等各种常用的应用开发框架，熟悉JavaScript、JQuery、AJAX、HTML、CSS等语言4. 掌握shiro框架，能够应用shiro实现权限的精确控制5. 熟练使用SQL和存储过程，熟悉Oracle、MySQL、或SQL Server等数据库，对数据库管理、大数据处理及性能调优有经验者优先6. 精通Tomcat、weblogic、jboss等应用服务器，并熟练掌握大规模应用服务器的部署和使用，构建过百万级用户量以上系统7. 具备开阔的技术视野，能及时掌握市场发展动态，对部门的技术发展能提供决策性的建议。8. 使用过MongoDB、redis等技术的优先选择，使用过httpclient优先9.联系电话一八八一一四九三一六五
+
+链接: https://www.zhipin.com/job_detail/f90abe0fc5611ff81nVz2NW6GFQ~.html
+薪资/职位: 8K-16KJava	地点/年限/学历: 北京3-5年本科	公司: 宇信科技集团
+职位要求: 技能要求：1、熟悉Java技术，熟悉Struts、Spring、habernate等开发技术 2、熟悉Oracle或DB2数据库 3、熟悉Linux或Unix操作系统，熟悉Websphere、Weblogic或Tomcat等应用服务器4、具有4年及以上工作经验5、具金融软件行业、有证券系统开发实施经验者优先工作岗位：参与报表平台，对公CRM，保管箱，网点积分等项目，负责系统需求分析，设计和JAVA开发工作其他说明：要求有责任心，沟通能力强，踏实，愿意从事金融IT相关工作
+
+链接: https://www.zhipin.com/job_detail/e1e051d2708bb8ea1XN_09S8EVY~.html
+薪资/职位: 15K-25KJava	地点/年限/学历: 北京3-5年不限	公司: 姿美堂
+职位要求: 职位信息职位描述岗位职责：1、参与项目需求分析,进行系统框架的设计；2、按照工作进度和编程工作规范编写系统中的重要模块、重要算法的程序；3、根据概要设计文档，负责项目相关子系统的详细设计，形成详细设计报告；4、根据详细设计文档和设计实现策略，负责编码实现；5、负责编写产品技术相关文档，进行产品技术总结，以积累和分享研发经验；6、负责验证编码质量，优化代码并进行代码质量审核；7、可能会做第三方门户网站任职资格：1、5年以上Java编程经验；2、熟悉一种以上数据库(Oracle,SQL Server,MySQL)，熟练使用SQL语言；3、熟悉J2EE技术架构，熟悉Struts,Spring,Hibernate,MyBatis等框架；4、熟悉一种以上应用服务器(WebLogic,Tomcat等)的使用和配置；5、熟悉Web Service开发；6、掌握至少一种开发工具（如MyEclipse或Interllij idea）；
+
+链接: https://www.zhipin.com/job_detail/bda69b9cf57653e71nx63Ni5FVE~.html
+薪资/职位: 25K-50KJava后端工程师	地点/年限/学历: 北京经验不限本科	公司: 今日头条
+职位要求: 【今日头条】Java后端工程师-互联网2B方向在移动红利终结的时代，产业互联网成为众所公认的下一个增长热点。我们正在全球招募富有潜力，才华横溢的同学，把字节跳动公司内部庞大的员工群体和组织结构做为对象，探索，研究和实施各种企业应用产品，构建产业互联网的基础设施。我们使用互联网的技术来改造传统企业软件，包括办公自动化、业务流程、财务系统、资金管理、投融资等系统，以字节跳动公司为实验对象，输出我们的技术能力，为企业赋能。职位名称：   【今日头条-北京】 Java工程师&mdash;&mdash;互联网2B方向职位描述：&nbsp;1. 负责今日头条企业应用产品的设计和开发。&nbsp;Java岗位，入职后不会要求转语言。2. 持续优化企业应用产品核心业务流程，提升运营效率，降低成本。&nbsp;3. 研究分析业内主流企业产品和技术实现，优化实现方案，不断改进产品功能。&nbsp;职位要求：&nbsp;1. 计算机及其相关专业， 本科及其以上学历。学习能力强，对新事物保持好奇心。很好的逻辑思维，能够快速把握业务需求并将需求落地为方案设计。我们认为代码洁癖是工程师的特质。2. 良好的Java语言基础，熟悉Springframework，MyBatis等常用框架和类库为佳，但不是必要条件。3. 熟悉MySQL数据库的使用以及SQL优化，有大规模高并发环境下MySQL优化经验为佳，但不是必要条件。4. 有企业应用研发，大型商业平台web系统研发经验优先；有高性能、高可用性系统设计、研发、优化经验尤佳。5. 我们会使用Redis， Zookeeper/Zuul， Spring Boot/Cloud，Apache Thrift等技术，精通部分或全部技术将有助于你更好地开展工作。福利待遇：六险一金，高薪期权，弹性工作，免费三餐，租房补贴，休闲下午茶，扁平管理，团队氛围好，优厚薪资
+
+链接: https://www.zhipin.com/job_detail/2a446776bdd9684a1HR-2t6-EVo~.html
+薪资/职位: 15K-25KJava	地点/年限/学历: 北京3-5年本科	公司: 九头猪
+职位要求: java后端项目电商，视频类的产品要求技术熟练掌握新框架，新技术，要求有上进心。
+
+链接: https://www.zhipin.com/job_detail/e1a973c24ae02aca1nd70t-4.html
+薪资/职位: 12K-25KJava	地点/年限/学历: 北京经验不限硕士	公司: 汇金资本
+职位要求: 负责公司oa办公系统的开发。薪资面议。正规大学统招本科以上学历。要求有项目经验。能加班。
+
+链接: https://www.zhipin.com/job_detail/4355333e69ee7f711XJ8292-GFY~.html
+薪资/职位: 20K-40KJava高级工程师	地点/年限/学历: 北京5-10年本科	公司: 京东集团
+职位要求: 岗位职责：- 参与需求评审，系统概要设计，并负责完成核心代码；- 根据开发规范和流程独立完成核心模块的设计和编码；- 负责所辖系统的线上维护工作；- 技术分享、新技术研究；岗位要求：- Java基础扎实，精通io、多线程、集合等基础框架，了解JVM模型及原理； - 熟练应用Spring/Springmvc/Mybatis/dubbo等开源框架，并且对其核心思想、实现原理有一定认知；- 熟悉常用数据库软件（MySQL/Oracle）的原理和使用，对数据库优化有一定经验； - 熟悉分布式、缓存、消息、搜索、负载均衡等机制和实现- 熟悉Linux下常用命令；- 思路清晰，善于思考，具备独立分析和解决问题的能力；- 学习能力强，责任心强，有良好的沟通能力，能接受较大的工作强度； 请注意：- 统招本科以上学历- 2年以上Java开发经验- 平均每家公司任职两年以上
+
+链接: https://www.zhipin.com/job_detail/3073fbf14d05f1b51XZ72Ny4Elo~.html
+薪资/职位: 20K-40KJava	地点/年限/学历: 北京1-3年硕士	公司: Amazon
+职位要求: 此职位是亚马逊全球电商业务，非中国本地业务。在岗工作满一年可申请去国外工作，如美国或者加拿大。CS基础扎实，沟通好，思维灵活，解决问题能力突出者择优录取。经验和能力突出者，薪资待遇上不封顶。常见问题：问：对英语的要求？答：对开发人员一开始主要是读写要求。日常文档和邮件都是英文的。渐渐会增加听说要求。跨国电话会议都是英文的，当然经理一般会在场支持。作为外企，英文始终是加分项但不是衡量开发的关键。Basic qualifications &bull; Bachelor&rsquo;s Degree in Computer Science or related field &bull; Equivalent experience to a Bachelor's degree based on 3 years of work experience for every 1 year of education &bull; 4+ years professional experience in software development &bull; Computer Science fundamentals in object-oriented design &bull; Computer Science fundamentals in data structures &bull; Computer Science fundamentals in algorithm design, problem solving, and complexity analysis &bull; Proficiency in, at least, one modern programming language such as C, C++, C#, Java, or Perl Preferred qualifications&bull; Experience taking a leading role in building complex software systems that have been successfully delivered to customers &bull; Knowledge of professional software engineering practices &amp; best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations &bull; Experience with distributed computing and enterprise-wide systems &bull; Experience in communicating with users, other technical teams, and senior management to collect requirements, describe software product features, technical designs, and product strategy &bull; Experience mentoring junior software engineers to improve their skills, and make them more effective, product software engineers &bull; Experience influencing software engineers best practices within your team &bull; Hands-on expertise in many disparate technologies, typically ranging from front-end user interfaces through to back-end systems and all points in between Amazon is an Equal Opportunity-Affirmative Action Employer &ndash; Minority / Female / Disability / Vet About Amazon and FBASince 1995, Amazon has focused on being &ldquo;the world&rsquo;s most customer centric company.&rdquo; Our customers are worldwide, and include not just consumers, but also groups like our third-party Sellers. World-class retail brands and individual Sellers increase their sales and reach new customers by leveraging the power of the Amazon e-commerce platform. Over 2 million third-party Sellers offer new, used, and collectible selections to Amazon customers around the world. To meet our Sellers&rsquo; needs, our smart, diverse, customer-obsessed employees are constantly innovating and building on new ideas.Fulfillment by Amazon (FBA) is an Amazon service for our third-party Sellers. The FBA team partners with Sellers and our Amazon Fulfillment Centers to create a seamless experience for Sellers to leverage our world-class facilities. 71% of our FBA Sellers report more than a 20% increase in unit sales after joining FBA. In a very real way, we are changing lives with the work we do. Our FBA employees wake up every day thinking about how to enable our Sellers to be successful on our platform. Enabling Seller success allows us to provide Amazon customers with unparalleled selection and pricing. FBA is a win for Sellers and a win for customers. Want to learn more about FBA? &middot; Seller&rsquo;s success stories: SellerSuccess &middot; A free book of stories from small businesses/sellers, authors, and innovators that are thriving on Amazon: Transformations-ebook The Fulfillment by Amazon team is looking for a talented software development engineer to help implement important software that virtualizes Amazon.com's world class fulfillment and customer service capabilities. We are building highly available web services, reporting systems and merchant facing workflows. As a software development engineer you will work with multiple teams and talented engineers working on systems that are global in scope. As mentioned by Jeff Bezos, Founder and CEO of Amazon.com, in his annual letter to shareholders in 2006 and again in 2008, FBA is one of the strategic long term opportunities for the company to improve the lives of sellers and buyers while leveraging our billion dollar logistics infrastructure to generate increasing free cash flow.
+
+链接: https://www.zhipin.com/job_detail/954cd6e22d51b02f1HZ_2Nq1EVY~.html
+薪资/职位: 10K-15KJava	地点/年限/学历: 北京1-3年不限	公司: 小叶云
+职位要求: 熟练使用 Spring mvc，Mybatis 熟悉 MySQL 的使用，能熟练编写常见 SQL 语句良好的逻辑思维能力熟悉基本的 Linux 操作熟悉 Maven、GIt 基本操作有良好的学习能力和抗压能力加分项：有分布式系统经验有支付相关经验
+
+链接: https://www.zhipin.com/job_detail/4a98ebaaf28084901HV_2t69EFo~.html
+薪资/职位: 10K-15K中级JAVA	地点/年限/学历: 北京3-5年本科	公司: 新致软件
+职位要求: 统招本科，工作经验三年以上，有较好的JAVA基础
+
+链接: https://www.zhipin.com/job_detail/5a516a1b69f2fbec1HZz3tS-F1I~.html
+薪资/职位: 9K-14Kjava开发	地点/年限/学历: 北京1-3年本科	公司: 文思海辉
+职位要求: 技能要求：springboot、springcloud、oracle数据库、restful接口、springMVC 、Mybatis 、redis。Vue开发精通者优先。
+
